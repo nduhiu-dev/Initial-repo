@@ -1,0 +1,16 @@
+  375  git push origin master
+  376  clear
+  377  git branch
+  378  git branch SDFPT12
+  379  git branch
+  380  git checkout SDFPT12
+  381  git add
+  382  git add .
+  383  git commit -m"Updated the README.md file"
+  384  git push originSDFPT12
+  385  git push origin SDFPT12
+  386  git checkout master
+  387  git pull origin master
+  388  git pull origin master
+  389  git log --oneline --decorate --graph --all\n
+  390  history\n
